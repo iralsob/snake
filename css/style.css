@@ -1,0 +1,16 @@
+.snake {
+	display: inline-block;
+	vertical-align: top;
+	background: #acf640;
+	position: absolute;
+}
+.rabbit {
+	display: inline-block;
+	background: #bbb;
+	position: absolute;
+}
+.area {
+	display: inline-block;
+	border: 1px solid #5f9e3a;
+	position: relative;
+}
